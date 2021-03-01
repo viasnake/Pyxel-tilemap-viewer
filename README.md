@@ -1,5 +1,6 @@
 # Pyxel tilemap viewer
-Pyxel tilemap viewer is a dedicated tilemap display program for tilemap design.
+Pyxel tilemap viewer is a dedicated tilemap display program for tilemap design.  
+This tool is designed for my personal projects.
 
 # Requirements
 - [Python3](https://www.python.org/)
