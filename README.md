@@ -1,3 +1,5 @@
+[日本語](https://viasnake.com/pyxel-tilemap-viewer/)
+
 # Pyxel tilemap viewer
 Pyxel tilemap viewer is a dedicated tilemap display program for tilemap design.  
 This tool is designed for my personal projects.
