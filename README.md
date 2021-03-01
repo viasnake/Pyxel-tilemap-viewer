@@ -8,6 +8,9 @@ This tool is designed for my personal projects.
 
 *It will probably work with Pyxel, which is not up to date, but it is not guaranteed to work.*
 
+# Download
+You can download it from [here](https://github.com/ViaSnake/Pyxel-tilemap-viewer/releases).
+
 # How to use
 1. Download `viewr.py`.
 2. Place `tm.pyxres` in the same directory as `viwer.py`.
